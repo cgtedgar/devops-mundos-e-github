@@ -1,6 +1,3 @@
 te se creo en develop  brach
-
 git hb local, veremos si se reflreja en la web
-
 edtando depues de haber modificado por gh web
-
