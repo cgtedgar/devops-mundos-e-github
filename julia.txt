@@ -1,3 +1,4 @@
 te se creo en develop  brach
 
+<<<<<<< HEAD
 edtando depues de haber modificado por gh web
